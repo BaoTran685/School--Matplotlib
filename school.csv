@@ -1,0 +1,1380 @@
+Id,School Code,School Name,Year,Enrolment
+0,131,Alberton Elementary School,1999,229
+1,231,Amherst Cove Consolidated School,1999,184
+2,221,Athena Consolidated School,1999,438
+3,440,Belfast Consolidated School,1999,286
+4,320,Birchwood Intermediate School,1999,458
+5,132,Bloomfield Elementary School,1999,235
+6,314,Bluefield High School,1999,826
+7,441,Cardigan Consolidated School,1999,234
+8,341,Central Queens Elementary School,1999,288
+9,310,Charlottetown Rural High School,1999,1053
+10,311,Colonel Gray Senior High School,1999,944
+11,344,Donagh Regional School,1999,178
+12,442,Dundas Consolidated School,1999,76
+13,324,East Wiltshire Intermediate School,1999,626
+14,443,Eastern Kings Consolidated School,1999,92
+15,510,École Évangéline,1999,443
+16,511,École François-Buote,1999,166
+17,342,Eliot River Elementary School,1999,403
+18,134,Ellerslie Elementary School,1999,243
+19,232,Elm Street Elementary School,1999,477
+20,345,Englewood School,1999,259
+21,444,Fortune Consolidated School,1999,119
+22,445,Georgetown Elementary School,1999,95
+23,340,Glen Stewart Elementary School,1999,673
+24,357,Grand Tracadie Elementary School,1999,55
+25,237,Greenfield Elementary School,1999,434
+26,348,Gulf Shore Consolidated School,1999,339
+27,122,Hernewood Intermediate School,1999,377
+28,211,Kensington Intermediate Senior High School,1999,468
+29,212,Kinkora Regional High School,1999,200
+30,343,L.M. Montgomery Elementary School,1999,392
+31,123,M.E. Callaghan Intermediate School,1999,363
+32,222,Miscouche Consolidated School,1999,231
+33,446,Montague Consolidated School,1999,410
+34,420,Montague Intermediate School,1999,345
+35,410,Montague Regional High School,1999,710
+36,447,Morell Consolidated School,1999,227
+37,411,Morell Regional High School,1999,325
+38,448,Mount Stewart Consolidated School,1999,120
+39,133,O'Leary Elementary School,1999,260
+40,346,Parkdale Elementary School,1999,198
+41,236,Parkside Elementary School,1999,318
+42,347,Prince Street Elementary School,1999,363
+43,321,Queen Charlotte Intermediate School,1999,555
+44,233,Queen Elizabeth Elementary School,1999,463
+45,449,Rollo Bay Consolidated School,1999,139
+46,349,Sherwood Elementary School,1999,631
+47,234,Somerset Elementary School,1999,206
+48,450,Souris Consolidated School,1999,246
+49,412,Souris Regional High School,1999,367
+50,451,Southern Kings Consolidated School,1999,375
+51,351,Spring Park Elementary School,1999,516
+52,354,St. Jean Elementary School,1999,222
+53,135,St. Louis Elementary School,1999,196
+54,452,St. Peter’s Consolidated School,1999,113
+55,453,St. Teresa’s Consolidated School,1999,69
+56,323,Stonepark Intermediate School,1999,846
+57,220,Summerside Intermediate School,1999,626
+58,215,Three Oaks Senior High School,1999,856
+59,130,Tignish Elementary School,1999,300
+60,454,Tracadie Cross Consolidated School,1999,124
+61,455,Vernon River Consolidated School,1999,256
+62,355,West Kent Elementary School,1999,359
+63,356,West Royalty Elementary School,1999,207
+64,113,Westisle Composite High School,1999,813
+65,350,Westwood Primary School,1999,424
+66,131,Alberton Elementary School,2000,231
+67,231,Amherst Cove Consolidated School,2000,180
+68,221,Athena Consolidated School,2000,420
+69,440,Belfast Consolidated School,2000,286
+70,320,Birchwood Intermediate School,2000,433
+71,132,Bloomfield Elementary School,2000,221
+72,314,Bluefield High School,2000,807
+73,441,Cardigan Consolidated School,2000,235
+74,341,Central Queens Elementary School,2000,274
+75,310,Charlottetown Rural High School,2000,1097
+76,311,Colonel Gray Senior High School,2000,966
+77,344,Donagh Regional School,2000,168
+78,442,Dundas Consolidated School,2000,77
+79,324,East Wiltshire Intermediate School,2000,620
+80,443,Eastern Kings Consolidated School,2000,100
+81,510,École Évangéline,2000,418
+82,511,École François-Buote,2000,170
+83,514,École Pierre-Chiasson,2000,6
+84,512,École St-Augustin,2000,5
+85,513,École-sur-Mer,2000,4
+86,342,Eliot River Elementary School,2000,417
+87,134,Ellerslie Elementary School,2000,223
+88,232,Elm Street Elementary School,2000,476
+89,345,Englewood School,2000,234
+90,444,Fortune Consolidated School,2000,122
+91,445,Georgetown Elementary School,2000,95
+92,340,Glen Stewart Elementary School,2000,632
+93,357,Grand Tracadie Elementary School,2000,54
+94,237,Greenfield Elementary School,2000,409
+95,348,Gulf Shore Consolidated School,2000,332
+96,122,Hernewood Intermediate School,2000,375
+97,211,Kensington Intermediate Senior High School,2000,460
+98,212,Kinkora Regional High School,2000,214
+99,343,L.M. Montgomery Elementary School,2000,388
+100,123,M.E. Callaghan Intermediate School,2000,350
+101,222,Miscouche Consolidated School,2000,233
+102,446,Montague Consolidated School,2000,405
+103,420,Montague Intermediate School,2000,357
+104,410,Montague Regional High School,2000,715
+105,447,Morell Consolidated School,2000,215
+106,411,Morell Regional High School,2000,327
+107,448,Mount Stewart Consolidated School,2000,120
+108,133,O'Leary Elementary School,2000,237
+109,346,Parkdale Elementary School,2000,169
+110,236,Parkside Elementary School,2000,303
+111,347,Prince Street Elementary School,2000,353
+112,321,Queen Charlotte Intermediate School,2000,531
+113,233,Queen Elizabeth Elementary School,2000,440
+114,449,Rollo Bay Consolidated School,2000,135
+115,349,Sherwood Elementary School,2000,627
+116,234,Somerset Elementary School,2000,198
+117,450,Souris Consolidated School,2000,234
+118,412,Souris Regional High School,2000,350
+119,451,Southern Kings Consolidated School,2000,359
+120,351,Spring Park Elementary School,2000,491
+121,354,St. Jean Elementary School,2000,230
+122,135,St. Louis Elementary School,2000,180
+123,452,St. Peter’s Consolidated School,2000,111
+124,453,St. Teresa’s Consolidated School,2000,64
+125,323,Stonepark Intermediate School,2000,835
+126,220,Summerside Intermediate School,2000,621
+127,215,Three Oaks Senior High School,2000,876
+128,130,Tignish Elementary School,2000,297
+129,454,Tracadie Cross Consolidated School,2000,124
+130,455,Vernon River Consolidated School,2000,252
+131,355,West Kent Elementary School,2000,138
+132,356,West Royalty Elementary School,2000,458
+133,113,Westisle Composite High School,2000,761
+134,350,Westwood Primary School,2000,428
+135,131,Alberton Elementary School,2001,237
+136,231,Amherst Cove Consolidated School,2001,192
+137,221,Athena Consolidated School,2001,433
+138,440,Belfast Consolidated School,2001,283
+139,320,Birchwood Intermediate School,2001,447
+140,132,Bloomfield Elementary School,2001,205
+141,314,Bluefield High School,2001,850
+142,441,Cardigan Consolidated School,2001,215
+143,341,Central Queens Elementary School,2001,264
+144,310,Charlottetown Rural High School,2001,1083
+145,311,Colonel Gray Senior High School,2001,972
+146,344,Donagh Regional School,2001,166
+147,442,Dundas Consolidated School,2001,78
+148,324,East Wiltshire Intermediate School,2001,581
+149,443,Eastern Kings Consolidated School,2001,83
+150,510,École Évangéline,2001,388
+151,511,École François-Buote,2001,167
+152,514,École Pierre-Chiasson,2001,17
+153,512,École St-Augustin,2001,10
+154,513,École-sur-Mer,2001,24
+155,342,Eliot River Elementary School,2001,439
+156,134,Ellerslie Elementary School,2001,214
+157,232,Elm Street Elementary School,2001,444
+158,345,Englewood School,2001,239
+159,444,Fortune Consolidated School,2001,129
+160,445,Georgetown Elementary School,2001,93
+161,340,Glen Stewart Elementary School,2001,646
+162,357,Grand Tracadie Elementary School,2001,54
+163,237,Greenfield Elementary School,2001,406
+164,348,Gulf Shore Consolidated School,2001,331
+165,122,Hernewood Intermediate School,2001,399
+166,211,Kensington Intermediate Senior High School,2001,480
+167,212,Kinkora Regional High School,2001,210
+168,343,L.M. Montgomery Elementary School,2001,404
+169,123,M.E. Callaghan Intermediate School,2001,363
+170,222,Miscouche Consolidated School,2001,241
+171,446,Montague Consolidated School,2001,412
+172,420,Montague Intermediate School,2001,351
+173,410,Montague Regional High School,2001,718
+174,447,Morell Consolidated School,2001,213
+175,411,Morell Regional High School,2001,338
+176,448,Mount Stewart Consolidated School,2001,118
+177,133,O'Leary Elementary School,2001,231
+178,346,Parkdale Elementary School,2001,159
+179,236,Parkside Elementary School,2001,289
+180,347,Prince Street Elementary School,2001,327
+181,321,Queen Charlotte Intermediate School,2001,560
+182,233,Queen Elizabeth Elementary School,2001,405
+183,449,Rollo Bay Consolidated School,2001,126
+184,349,Sherwood Elementary School,2001,571
+185,234,Somerset Elementary School,2001,188
+186,450,Souris Consolidated School,2001,245
+187,412,Souris Regional High School,2001,344
+188,451,Southern Kings Consolidated School,2001,332
+189,351,Spring Park Elementary School,2001,487
+190,354,St. Jean Elementary School,2001,209
+191,135,St. Louis Elementary School,2001,169
+192,452,St. Peter’s Consolidated School,2001,109
+193,453,St. Teresa’s Consolidated School,2001,62
+194,323,Stonepark Intermediate School,2001,764
+195,220,Summerside Intermediate School,2001,620
+196,215,Three Oaks Senior High School,2001,903
+197,130,Tignish Elementary School,2001,293
+198,454,Tracadie Cross Consolidated School,2001,123
+199,455,Vernon River Consolidated School,2001,236
+200,355,West Kent Elementary School,2001,127
+201,356,West Royalty Elementary School,2001,450
+202,113,Westisle Composite High School,2001,728
+203,350,Westwood Primary School,2001,435
+204,131,Alberton Elementary School,2002,213
+205,231,Amherst Cove Consolidated School,2002,194
+206,221,Athena Consolidated School,2002,435
+207,440,Belfast Consolidated School,2002,264
+208,320,Birchwood Intermediate School,2002,470
+209,132,Bloomfield Elementary School,2002,202
+210,314,Bluefield High School,2002,853
+211,441,Cardigan Consolidated School,2002,201
+212,341,Central Queens Elementary School,2002,247
+213,310,Charlottetown Rural High School,2002,1060
+214,311,Colonel Gray Senior High School,2002,929
+215,344,Donagh Regional School,2002,163
+216,442,Dundas Consolidated School,2002,78
+217,324,East Wiltshire Intermediate School,2002,611
+218,443,Eastern Kings Consolidated School,2002,81
+219,510,École Évangéline,2002,365
+220,511,École François-Buote,2002,171
+221,514,École Pierre-Chiasson,2002,35
+222,512,École St-Augustin,2002,17
+223,513,École-sur-Mer,2002,38
+224,342,Eliot River Elementary School,2002,437
+225,134,Ellerslie Elementary School,2002,193
+226,232,Elm Street Elementary School,2002,488
+227,345,Englewood School,2002,240
+228,444,Fortune Consolidated School,2002,116
+229,445,Georgetown Elementary School,2002,102
+230,340,Glen Stewart Elementary School,2002,659
+231,357,Grand Tracadie Elementary School,2002,50
+232,237,Greenfield Elementary School,2002,414
+233,348,Gulf Shore Consolidated School,2002,321
+234,122,Hernewood Intermediate School,2002,427
+235,211,Kensington Intermediate Senior High School,2002,487
+236,212,Kinkora Regional High School,2002,201
+237,343,L.M. Montgomery Elementary School,2002,380
+238,123,M.E. Callaghan Intermediate School,2002,330
+239,222,Miscouche Consolidated School,2002,253
+240,446,Montague Consolidated School,2002,414
+241,420,Montague Intermediate School,2002,316
+242,410,Montague Regional High School,2002,720
+243,447,Morell Consolidated School,2002,221
+244,411,Morell Regional High School,2002,346
+245,448,Mount Stewart Consolidated School,2002,89
+246,133,O'Leary Elementary School,2002,222
+247,346,Parkdale Elementary School,2002,140
+248,236,Parkside Elementary School,2002,269
+249,347,Prince Street Elementary School,2002,310
+250,321,Queen Charlotte Intermediate School,2002,550
+251,233,Queen Elizabeth Elementary School,2002,387
+252,449,Rollo Bay Consolidated School,2002,125
+253,349,Sherwood Elementary School,2002,548
+254,234,Somerset Elementary School,2002,197
+255,450,Souris Consolidated School,2002,242
+256,412,Souris Regional High School,2002,348
+257,451,Southern Kings Consolidated School,2002,325
+258,351,Spring Park Elementary School,2002,471
+259,354,St. Jean Elementary School,2002,205
+260,135,St. Louis Elementary School,2002,165
+261,452,St. Peter’s Consolidated School,2002,98
+262,453,St. Teresa’s Consolidated School,2002,66
+263,323,Stonepark Intermediate School,2002,814
+264,220,Summerside Intermediate School,2002,622
+265,215,Three Oaks Senior High School,2002,924
+266,130,Tignish Elementary School,2002,273
+267,454,Tracadie Cross Consolidated School,2002,127
+268,455,Vernon River Consolidated School,2002,245
+269,355,West Kent Elementary School,2002,121
+270,356,West Royalty Elementary School,2002,436
+271,113,Westisle Composite High School,2002,742
+272,350,Westwood Primary School,2002,416
+273,131,Alberton Elementary School,2003,225
+274,231,Amherst Cove Consolidated School,2003,190
+275,221,Athena Consolidated School,2003,421
+276,440,Belfast Consolidated School,2003,251
+277,320,Birchwood Intermediate School,2003,460
+278,132,Bloomfield Elementary School,2003,206
+279,314,Bluefield High School,2003,831
+280,441,Cardigan Consolidated School,2003,191
+281,341,Central Queens Elementary School,2003,230
+282,310,Charlottetown Rural High School,2003,1035
+283,311,Colonel Gray Senior High School,2003,918
+284,344,Donagh Regional School,2003,161
+285,442,Dundas Consolidated School,2003,74
+286,324,East Wiltshire Intermediate School,2003,609
+287,443,Eastern Kings Consolidated School,2003,77
+288,510,École Évangéline,2003,348
+289,511,École François-Buote,2003,205
+290,515,École La-Belle-Cloche,2003,13
+291,514,École Pierre-Chiasson,2003,40
+292,512,École St-Augustin,2003,24
+293,513,École-sur-Mer,2003,36
+294,342,Eliot River Elementary School,2003,434
+295,134,Ellerslie Elementary School,2003,179
+296,232,Elm Street Elementary School,2003,467
+297,345,Englewood School,2003,235
+298,444,Fortune Consolidated School,2003,91
+299,445,Georgetown Elementary School,2003,96
+300,340,Glen Stewart Elementary School,2003,659
+301,357,Grand Tracadie Elementary School,2003,48
+302,237,Greenfield Elementary School,2003,413
+303,348,Gulf Shore Consolidated School,2003,323
+304,122,Hernewood Intermediate School,2003,411
+305,211,Kensington Intermediate Senior High School,2003,484
+306,212,Kinkora Regional High School,2003,191
+307,343,L.M. Montgomery Elementary School,2003,357
+308,123,M.E. Callaghan Intermediate School,2003,325
+309,222,Miscouche Consolidated School,2003,257
+310,446,Montague Consolidated School,2003,426
+311,420,Montague Intermediate School,2003,315
+312,410,Montague Regional High School,2003,740
+313,447,Morell Consolidated School,2003,213
+314,411,Morell Regional High School,2003,345
+315,448,Mount Stewart Consolidated School,2003,90
+316,133,O'Leary Elementary School,2003,214
+317,346,Parkdale Elementary School,2003,134
+318,236,Parkside Elementary School,2003,236
+319,347,Prince Street Elementary School,2003,314
+320,321,Queen Charlotte Intermediate School,2003,580
+321,233,Queen Elizabeth Elementary School,2003,405
+322,449,Rollo Bay Consolidated School,2003,112
+323,349,Sherwood Elementary School,2003,549
+324,234,Somerset Elementary School,2003,194
+325,450,Souris Consolidated School,2003,224
+326,412,Souris Regional High School,2003,336
+327,451,Southern Kings Consolidated School,2003,314
+328,351,Spring Park Elementary School,2003,446
+329,354,St. Jean Elementary School,2003,183
+330,135,St. Louis Elementary School,2003,160
+331,452,St. Peter’s Consolidated School,2003,96
+332,453,St. Teresa’s Consolidated School,2003,63
+333,323,Stonepark Intermediate School,2003,819
+334,220,Summerside Intermediate School,2003,644
+335,215,Three Oaks Senior High School,2003,917
+336,130,Tignish Elementary School,2003,268
+337,454,Tracadie Cross Consolidated School,2003,105
+338,455,Vernon River Consolidated School,2003,231
+339,355,West Kent Elementary School,2003,135
+340,356,West Royalty Elementary School,2003,431
+341,113,Westisle Composite High School,2003,737
+342,350,Westwood Primary School,2003,394
+343,131,Alberton Elementary School,2004,218
+344,231,Amherst Cove Consolidated School,2004,183
+345,221,Athena Consolidated School,2004,403
+346,440,Belfast Consolidated School,2004,238
+347,320,Birchwood Intermediate School,2004,443
+348,132,Bloomfield Elementary School,2004,197
+349,314,Bluefield High School,2004,831
+350,441,Cardigan Consolidated School,2004,168
+351,341,Central Queens Elementary School,2004,219
+352,310,Charlottetown Rural High School,2004,1001
+353,311,Colonel Gray Senior High School,2004,931
+354,344,Donagh Regional School,2004,151
+355,442,Dundas Consolidated School,2004,77
+356,324,East Wiltshire Intermediate School,2004,606
+357,443,Eastern Kings Consolidated School,2004,79
+358,510,École Évangéline,2004,315
+359,511,École François-Buote,2004,207
+360,515,École La-Belle-Cloche,2004,25
+361,514,École Pierre-Chiasson,2004,47
+362,512,École St-Augustin,2004,35
+363,513,École-sur-Mer,2004,44
+364,342,Eliot River Elementary School,2004,423
+365,134,Ellerslie Elementary School,2004,183
+366,232,Elm Street Elementary School,2004,468
+367,345,Englewood School,2004,227
+368,444,Fortune Consolidated School,2004,80
+369,445,Georgetown Elementary School,2004,89
+370,340,Glen Stewart Elementary School,2004,619
+371,357,Grand Tracadie Elementary School,2004,41
+372,237,Greenfield Elementary School,2004,396
+373,348,Gulf Shore Consolidated School,2004,297
+374,122,Hernewood Intermediate School,2004,381
+375,211,Kensington Intermediate Senior High School,2004,459
+376,212,Kinkora Regional High School,2004,192
+377,343,L.M. Montgomery Elementary School,2004,320
+378,123,M.E. Callaghan Intermediate School,2004,344
+379,222,Miscouche Consolidated School,2004,253
+380,446,Montague Consolidated School,2004,428
+381,420,Montague Intermediate School,2004,344
+382,410,Montague Regional High School,2004,720
+383,447,Morell Consolidated School,2004,201
+384,411,Morell Regional High School,2004,343
+385,448,Mount Stewart Consolidated School,2004,80
+386,133,O'Leary Elementary School,2004,204
+387,346,Parkdale Elementary School,2004,122
+388,236,Parkside Elementary School,2004,240
+389,347,Prince Street Elementary School,2004,301
+390,321,Queen Charlotte Intermediate School,2004,573
+391,233,Queen Elizabeth Elementary School,2004,396
+392,449,Rollo Bay Consolidated School,2004,115
+393,349,Sherwood Elementary School,2004,524
+394,234,Somerset Elementary School,2004,180
+395,450,Souris Consolidated School,2004,208
+396,412,Souris Regional High School,2004,326
+397,451,Southern Kings Consolidated School,2004,308
+398,351,Spring Park Elementary School,2004,409
+399,354,St. Jean Elementary School,2004,169
+400,135,St. Louis Elementary School,2004,150
+401,452,St. Peter’s Consolidated School,2004,91
+402,453,St. Teresa’s Consolidated School,2004,58
+403,323,Stonepark Intermediate School,2004,862
+404,220,Summerside Intermediate School,2004,625
+405,215,Three Oaks Senior High School,2004,917
+406,130,Tignish Elementary School,2004,246
+407,454,Tracadie Cross Consolidated School,2004,108
+408,455,Vernon River Consolidated School,2004,215
+409,355,West Kent Elementary School,2004,132
+410,356,West Royalty Elementary School,2004,429
+411,113,Westisle Composite High School,2004,757
+412,350,Westwood Primary School,2004,403
+413,131,Alberton Elementary School,2005,219
+414,231,Amherst Cove Consolidated School,2005,172
+415,221,Athena Consolidated School,2005,386
+416,440,Belfast Consolidated School,2005,214
+417,320,Birchwood Intermediate School,2005,428
+418,132,Bloomfield Elementary School,2005,179
+419,314,Bluefield High School,2005,844
+420,441,Cardigan Consolidated School,2005,153
+421,341,Central Queens Elementary School,2005,214
+422,310,Charlottetown Rural High School,2005,1056
+423,311,Colonel Gray Senior High School,2005,963
+424,344,Donagh Regional School,2005,149
+425,442,Dundas Consolidated School,2005,76
+426,324,East Wiltshire Intermediate School,2005,582
+427,443,Eastern Kings Consolidated School,2005,72
+428,510,École Évangéline,2005,291
+429,511,École François-Buote,2005,210
+430,515,École La-Belle-Cloche,2005,38
+431,514,École Pierre-Chiasson,2005,60
+432,512,École St-Augustin,2005,42
+433,513,École-sur-Mer,2005,56
+434,342,Eliot River Elementary School,2005,411
+435,134,Ellerslie Elementary School,2005,173
+436,232,Elm Street Elementary School,2005,492
+437,345,Englewood School,2005,228
+438,444,Fortune Consolidated School,2005,69
+439,445,Georgetown Elementary School,2005,84
+440,340,Glen Stewart Elementary School,2005,624
+441,357,Grand Tracadie Elementary School,2005,39
+442,237,Greenfield Elementary School,2005,401
+443,348,Gulf Shore Consolidated School,2005,277
+444,122,Hernewood Intermediate School,2005,356
+445,211,Kensington Intermediate Senior High School,2005,474
+446,212,Kinkora Regional High School,2005,193
+447,343,L.M. Montgomery Elementary School,2005,283
+448,123,M.E. Callaghan Intermediate School,2005,331
+449,222,Miscouche Consolidated School,2005,256
+450,446,Montague Consolidated School,2005,401
+451,420,Montague Intermediate School,2005,325
+452,410,Montague Regional High School,2005,725
+453,447,Morell Consolidated School,2005,183
+454,411,Morell Regional High School,2005,346
+455,448,Mount Stewart Consolidated School,2005,70
+456,133,O'Leary Elementary School,2005,195
+457,346,Parkdale Elementary School,2005,118
+458,236,Parkside Elementary School,2005,207
+459,347,Prince Street Elementary School,2005,258
+460,321,Queen Charlotte Intermediate School,2005,566
+461,233,Queen Elizabeth Elementary School,2005,374
+462,449,Rollo Bay Consolidated School,2005,112
+463,349,Sherwood Elementary School,2005,524
+464,234,Somerset Elementary School,2005,187
+465,450,Souris Consolidated School,2005,211
+466,412,Souris Regional High School,2005,298
+467,451,Southern Kings Consolidated School,2005,294
+468,351,Spring Park Elementary School,2005,385
+469,354,St. Jean Elementary School,2005,155
+470,135,St. Louis Elementary School,2005,136
+471,452,St. Peter’s Consolidated School,2005,86
+472,453,St. Teresa’s Consolidated School,2005,56
+473,323,Stonepark Intermediate School,2005,855
+474,220,Summerside Intermediate School,2005,603
+475,215,Three Oaks Senior High School,2005,927
+476,130,Tignish Elementary School,2005,214
+477,454,Tracadie Cross Consolidated School,2005,100
+478,455,Vernon River Consolidated School,2005,202
+479,355,West Kent Elementary School,2005,141
+480,356,West Royalty Elementary School,2005,400
+481,113,Westisle Composite High School,2005,769
+482,350,Westwood Primary School,2005,409
+483,131,Alberton Elementary School,2006,214
+484,231,Amherst Cove Consolidated School,2006,169
+485,221,Athena Consolidated School,2006,367
+486,440,Belfast Consolidated School,2006,194
+487,320,Birchwood Intermediate School,2006,382
+488,132,Bloomfield Elementary School,2006,172
+489,314,Bluefield High School,2006,857
+490,441,Cardigan Consolidated School,2006,149
+491,341,Central Queens Elementary School,2006,199
+492,310,Charlottetown Rural High School,2006,1067
+493,311,Colonel Gray Senior High School,2006,968
+494,344,Donagh Regional School,2006,147
+495,442,Dundas Consolidated School,2006,78
+496,324,East Wiltshire Intermediate School,2006,570
+497,443,Eastern Kings Consolidated School,2006,70
+498,510,École Évangéline,2006,271
+499,511,École François-Buote,2006,230
+500,515,École La-Belle-Cloche,2006,40
+501,514,École Pierre-Chiasson,2006,63
+502,512,École St-Augustin,2006,42
+503,513,École-sur-Mer,2006,59
+504,342,Eliot River Elementary School,2006,407
+505,134,Ellerslie Elementary School,2006,149
+506,232,Elm Street Elementary School,2006,483
+507,345,Englewood School,2006,220
+508,444,Fortune Consolidated School,2006,73
+509,445,Georgetown Elementary School,2006,86
+510,340,Glen Stewart Elementary School,2006,639
+511,357,Grand Tracadie Elementary School,2006,40
+512,237,Greenfield Elementary School,2006,371
+513,348,Gulf Shore Consolidated School,2006,265
+514,122,Hernewood Intermediate School,2006,327
+515,211,Kensington Intermediate Senior High School,2006,446
+516,212,Kinkora Regional High School,2006,196
+517,343,L.M. Montgomery Elementary School,2006,265
+518,123,M.E. Callaghan Intermediate School,2006,311
+519,222,Miscouche Consolidated School,2006,241
+520,446,Montague Consolidated School,2006,379
+521,420,Montague Intermediate School,2006,298
+522,410,Montague Regional High School,2006,714
+523,447,Morell Consolidated School,2006,178
+524,411,Morell Regional High School,2006,337
+525,448,Mount Stewart Consolidated School,2006,68
+526,133,O'Leary Elementary School,2006,196
+527,346,Parkdale Elementary School,2006,115
+528,236,Parkside Elementary School,2006,216
+529,347,Prince Street Elementary School,2006,250
+530,321,Queen Charlotte Intermediate School,2006,562
+531,233,Queen Elizabeth Elementary School,2006,358
+532,449,Rollo Bay Consolidated School,2006,102
+533,349,Sherwood Elementary School,2006,509
+534,234,Somerset Elementary School,2006,171
+535,450,Souris Consolidated School,2006,191
+536,412,Souris Regional High School,2006,296
+537,451,Southern Kings Consolidated School,2006,295
+538,351,Spring Park Elementary School,2006,361
+539,354,St. Jean Elementary School,2006,133
+540,135,St. Louis Elementary School,2006,131
+541,452,St. Peter’s Consolidated School,2006,77
+542,453,St. Teresa’s Consolidated School,2006,55
+543,323,Stonepark Intermediate School,2006,858
+544,220,Summerside Intermediate School,2006,589
+545,215,Three Oaks Senior High School,2006,913
+546,130,Tignish Elementary School,2006,208
+547,454,Tracadie Cross Consolidated School,2006,84
+548,455,Vernon River Consolidated School,2006,188
+549,355,West Kent Elementary School,2006,161
+550,356,West Royalty Elementary School,2006,379
+551,113,Westisle Composite High School,2006,751
+552,350,Westwood Primary School,2006,414
+553,131,Alberton Elementary School,2007,194
+554,231,Amherst Cove Consolidated School,2007,147
+555,221,Athena Consolidated School,2007,356
+556,440,Belfast Consolidated School,2007,169
+557,320,Birchwood Intermediate School,2007,354
+558,132,Bloomfield Elementary School,2007,165
+559,314,Bluefield High School,2007,851
+560,441,Cardigan Consolidated School,2007,127
+561,341,Central Queens Elementary School,2007,181
+562,310,Charlottetown Rural High School,2007,1116
+563,311,Colonel Gray Senior High School,2007,964
+564,344,Donagh Regional School,2007,139
+565,442,Dundas Consolidated School,2007,77
+566,324,East Wiltshire Intermediate School,2007,572
+567,443,Eastern Kings Consolidated School,2007,70
+568,510,École Évangéline,2007,247
+569,511,École François-Buote,2007,229
+570,515,École La-Belle-Cloche,2007,40
+571,514,École Pierre-Chiasson,2007,63
+572,512,École St-Augustin,2007,48
+573,513,École-sur-Mer,2007,67
+574,342,Eliot River Elementary School,2007,427
+575,134,Ellerslie Elementary School,2007,146
+576,232,Elm Street Elementary School,2007,462
+577,345,Englewood School,2007,193
+578,444,Fortune Consolidated School,2007,69
+579,445,Georgetown Elementary School,2007,84
+580,340,Glen Stewart Elementary School,2007,659
+581,357,Grand Tracadie Elementary School,2007,36
+582,237,Greenfield Elementary School,2007,340
+583,348,Gulf Shore Consolidated School,2007,249
+584,122,Hernewood Intermediate School,2007,337
+585,211,Kensington Intermediate Senior High School,2007,438
+586,212,Kinkora Regional High School,2007,195
+587,343,L.M. Montgomery Elementary School,2007,242
+588,123,M.E. Callaghan Intermediate School,2007,294
+589,222,Miscouche Consolidated School,2007,247
+590,446,Montague Consolidated School,2007,366
+591,420,Montague Intermediate School,2007,333
+592,410,Montague Regional High School,2007,694
+593,447,Morell Consolidated School,2007,158
+594,411,Morell Regional High School,2007,326
+595,448,Mount Stewart Consolidated School,2007,58
+596,133,O'Leary Elementary School,2007,181
+597,346,Parkdale Elementary School,2007,112
+598,236,Parkside Elementary School,2007,196
+599,347,Prince Street Elementary School,2007,231
+600,321,Queen Charlotte Intermediate School,2007,553
+601,233,Queen Elizabeth Elementary School,2007,341
+602,449,Rollo Bay Consolidated School,2007,89
+603,349,Sherwood Elementary School,2007,504
+604,234,Somerset Elementary School,2007,166
+605,450,Souris Consolidated School,2007,189
+606,412,Souris Regional High School,2007,271
+607,451,Southern Kings Consolidated School,2007,272
+608,351,Spring Park Elementary School,2007,333
+609,354,St. Jean Elementary School,2007,125
+610,135,St. Louis Elementary School,2007,129
+611,452,St. Peter’s Consolidated School,2007,70
+612,453,St. Teresa’s Consolidated School,2007,50
+613,323,Stonepark Intermediate School,2007,865
+614,220,Summerside Intermediate School,2007,570
+615,215,Three Oaks Senior High School,2007,920
+616,130,Tignish Elementary School,2007,214
+617,454,Tracadie Cross Consolidated School,2007,80
+618,455,Vernon River Consolidated School,2007,156
+619,355,West Kent Elementary School,2007,169
+620,356,West Royalty Elementary School,2007,363
+621,113,Westisle Composite High School,2007,739
+622,350,Westwood Primary School,2007,396
+623,131,Alberton Elementary School,2008,186
+624,231,Amherst Cove Consolidated School,2008,143
+625,221,Athena Consolidated School,2008,357
+626,440,Belfast Consolidated School,2008,144
+627,320,Birchwood Intermediate School,2008,306
+628,132,Bloomfield Elementary School,2008,153
+629,314,Bluefield High School,2008,821
+630,441,Cardigan Consolidated School,2008,118
+631,341,Central Queens Elementary School,2008,182
+632,310,Charlottetown Rural High School,2008,1119
+633,311,Colonel Gray Senior High School,2008,970
+634,344,Donagh Regional School,2008,143
+635,442,Dundas Consolidated School,2008,69
+636,324,East Wiltshire Intermediate School,2008,557
+637,443,Eastern Kings Consolidated School,2008,55
+638,510,École Évangéline,2008,242
+639,511,École François-Buote,2008,254
+640,515,École La-Belle-Cloche,2008,36
+641,514,École Pierre-Chiasson,2008,59
+642,512,École St-Augustin,2008,48
+643,513,École-sur-Mer,2008,68
+644,342,Eliot River Elementary School,2008,413
+645,134,Ellerslie Elementary School,2008,158
+646,232,Elm Street Elementary School,2008,393
+647,345,Englewood School,2008,184
+648,444,Fortune Consolidated School,2008,53
+649,445,Georgetown Elementary School,2008,94
+650,340,Glen Stewart Elementary School,2008,639
+651,357,Grand Tracadie Elementary School,2008,30
+652,237,Greenfield Elementary School,2008,381
+653,348,Gulf Shore Consolidated School,2008,220
+654,122,Hernewood Intermediate School,2008,330
+655,211,Kensington Intermediate Senior High School,2008,428
+656,212,Kinkora Regional High School,2008,195
+657,343,L.M. Montgomery Elementary School,2008,240
+658,123,M.E. Callaghan Intermediate School,2008,281
+659,222,Miscouche Consolidated School,2008,250
+660,446,Montague Consolidated School,2008,370
+661,420,Montague Intermediate School,2008,325
+662,410,Montague Regional High School,2008,692
+663,447,Morell Consolidated School,2008,155
+664,411,Morell Regional High School,2008,309
+665,448,Mount Stewart Consolidated School,2008,50
+666,133,O'Leary Elementary School,2008,168
+667,346,Parkdale Elementary School,2008,100
+668,236,Parkside Elementary School,2008,179
+669,347,Prince Street Elementary School,2008,235
+670,321,Queen Charlotte Intermediate School,2008,531
+671,233,Queen Elizabeth Elementary School,2008,301
+672,449,Rollo Bay Consolidated School,2008,34
+673,349,Sherwood Elementary School,2008,478
+674,234,Somerset Elementary School,2008,156
+675,450,Souris Consolidated School,2008,252
+676,412,Souris Regional High School,2008,279
+677,451,Southern Kings Consolidated School,2008,262
+678,351,Spring Park Elementary School,2008,318
+679,354,St. Jean Elementary School,2008,108
+680,135,St. Louis Elementary School,2008,130
+681,452,St. Peter’s Consolidated School,2008,59
+682,453,St. Teresa’s Consolidated School,2008,47
+683,323,Stonepark Intermediate School,2008,875
+684,220,Summerside Intermediate School,2008,583
+685,215,Three Oaks Senior High School,2008,891
+686,130,Tignish Elementary School,2008,216
+687,454,Tracadie Cross Consolidated School,2008,74
+688,455,Vernon River Consolidated School,2008,137
+689,355,West Kent Elementary School,2008,183
+690,356,West Royalty Elementary School,2008,398
+691,113,Westisle Composite High School,2008,702
+692,350,Westwood Primary School,2008,408
+693,131,Alberton Elementary School,2009,167
+694,231,Amherst Cove Consolidated School,2009,128
+695,221,Athena Consolidated School,2009,370
+696,440,Belfast Consolidated School,2009,125
+697,320,Birchwood Intermediate School,2009,296
+698,132,Bloomfield Elementary School,2009,146
+699,314,Bluefield High School,2009,788
+700,441,Cardigan Consolidated School,2009,118
+701,341,Central Queens Elementary School,2009,184
+702,310,Charlottetown Rural High School,2009,1104
+703,311,Colonel Gray Senior High School,2009,944
+704,344,Donagh Regional School,2009,141
+705,324,East Wiltshire Intermediate School,2009,560
+706,510,École Évangéline,2009,237
+707,511,École François-Buote,2009,267
+708,515,École La-Belle-Cloche,2009,40
+709,514,École Pierre-Chiasson,2009,61
+710,512,École St-Augustin,2009,43
+711,513,École-sur-Mer,2009,67
+712,342,Eliot River Elementary School,2009,448
+713,134,Ellerslie Elementary School,2009,176
+714,232,Elm Street Elementary School,2009,441
+715,345,Englewood School,2009,191
+716,445,Georgetown Elementary School,2009,94
+717,340,Glen Stewart Elementary School,2009,680
+718,237,Greenfield Elementary School,2009,316
+719,348,Gulf Shore Consolidated School,2009,206
+720,122,Hernewood Intermediate School,2009,324
+721,211,Kensington Intermediate Senior High School,2009,435
+722,212,Kinkora Regional High School,2009,186
+723,343,L.M. Montgomery Elementary School,2009,287
+724,123,M.E. Callaghan Intermediate School,2009,282
+725,222,Miscouche Consolidated School,2009,244
+726,446,Montague Consolidated School,2009,339
+727,420,Montague Intermediate School,2009,359
+728,410,Montague Regional High School,2009,641
+729,447,Morell Consolidated School,2009,211
+730,411,Morell Regional High School,2009,300
+731,448,Mount Stewart Consolidated School,2009,140
+732,133,O'Leary Elementary School,2009,149
+733,346,Parkdale Elementary School,2009,100
+734,236,Parkside Elementary School,2009,173
+735,347,Prince Street Elementary School,2009,218
+736,321,Queen Charlotte Intermediate School,2009,557
+737,233,Queen Elizabeth Elementary School,2009,272
+738,349,Sherwood Elementary School,2009,451
+739,234,Somerset Elementary School,2009,149
+740,450,Souris Consolidated School,2009,312
+741,412,Souris Regional High School,2009,348
+742,451,Southern Kings Consolidated School,2009,253
+743,351,Spring Park Elementary School,2009,319
+744,354,St. Jean Elementary School,2009,94
+745,135,St. Louis Elementary School,2009,134
+746,323,Stonepark Intermediate School,2009,898
+747,220,Summerside Intermediate School,2009,573
+748,215,Three Oaks Senior High School,2009,865
+749,130,Tignish Elementary School,2009,218
+750,455,Vernon River Consolidated School,2009,128
+751,355,West Kent Elementary School,2009,192
+752,356,West Royalty Elementary School,2009,391
+753,113,Westisle Composite High School,2009,663
+754,350,Westwood Primary School,2009,412
+755,131,Alberton Elementary School,2010,175
+756,231,Amherst Cove Consolidated School,2010,138
+757,221,Athena Consolidated School,2010,394
+758,440,Belfast Consolidated School,2010,126
+759,320,Birchwood Intermediate School,2010,283
+760,132,Bloomfield Elementary School,2010,181
+761,314,Bluefield High School,2010,762
+762,441,Cardigan Consolidated School,2010,136
+763,341,Central Queens Elementary School,2010,244
+764,310,Charlottetown Rural High School,2010,1044
+765,311,Colonel Gray Senior High School,2010,1001
+766,344,Donagh Regional School,2010,146
+767,324,East Wiltshire Intermediate School,2010,571
+768,510,École Évangéline,2010,251
+769,511,École François-Buote,2010,301
+770,515,École La-Belle-Cloche,2010,54
+771,514,École Pierre-Chiasson,2010,73
+772,512,École St-Augustin,2010,44
+773,513,École-sur-Mer,2010,97
+774,342,Eliot River Elementary School,2010,417
+775,134,Ellerslie Elementary School,2010,190
+776,232,Elm Street Elementary School,2010,502
+777,345,Englewood School,2010,201
+778,445,Georgetown Elementary School,2010,98
+779,340,Glen Stewart Primary School,2010,509
+780,237,Greenfield Elementary School,2010,324
+781,348,Gulf Shore Consolidated School,2010,232
+782,122,Hernewood Intermediate School,2010,307
+783,211,Kensington Intermediate Senior High School,2010,429
+784,212,Kinkora Regional High School,2010,186
+785,343,L.M. Montgomery Elementary School,2010,340
+786,123,M.E. Callaghan Intermediate School,2010,270
+787,222,Miscouche Consolidated School,2010,288
+788,446,Montague Consolidated School,2010,395
+789,420,Montague Intermediate School,2010,341
+790,410,Montague Regional High School,2010,629
+791,447,Morell Consolidated School,2010,215
+792,411,Morell Regional High School,2010,272
+793,448,Mount Stewart Consolidated School,2010,163
+794,133,O'Leary Elementary School,2010,169
+795,346,Parkdale Elementary School,2010,113
+796,236,Parkside Elementary School,2010,288
+797,347,Prince Street Elementary School,2010,257
+798,321,Queen Charlotte Intermediate School,2010,539
+799,233,Queen Elizabeth Elementary School,2010,321
+800,349,Sherwood Elementary School,2010,536
+801,234,Somerset Elementary School,2010,161
+802,450,Souris Consolidated School,2010,372
+803,412,Souris Regional High School,2010,307
+804,451,Southern Kings Consolidated School,2010,254
+805,351,Spring Park Elementary School,2010,397
+806,354,St. Jean Elementary School,2010,126
+807,135,St. Louis Elementary School,2010,149
+808,323,Stonepark Intermediate School,2010,824
+809,358,Stratford Elementary School,2010,336
+810,220,Summerside Intermediate School,2010,540
+811,215,Three Oaks Senior High School,2010,845
+812,130,Tignish Elementary School,2010,252
+813,455,Vernon River Consolidated School,2010,154
+814,355,West Kent Elementary School,2010,218
+815,356,West Royalty Elementary School,2010,436
+816,113,Westisle Composite High School,2010,669
+817,350,Westwood Primary School,2010,570
+818,131,Alberton Elementary School,2011,178
+819,231,Amherst Cove Consolidated School,2011,132
+820,221,Athena Consolidated School,2011,382
+821,440,Belfast Consolidated School,2011,116
+822,320,Birchwood Intermediate School,2011,240
+823,132,Bloomfield Elementary School,2011,195
+824,314,Bluefield High School,2011,773
+825,441,Cardigan Consolidated School,2011,128
+826,341,Central Queens Elementary School,2011,239
+827,310,Charlottetown Rural High School,2011,993
+828,311,Colonel Gray Senior High School,2011,961
+829,344,Donagh Regional School,2011,137
+830,324,East Wiltshire Intermediate School,2011,557
+831,510,École Évangéline,2011,252
+832,511,École François-Buote,2011,318
+833,515,École La-Belle-Cloche,2011,58
+834,514,École Pierre-Chiasson,2011,73
+835,512,École St-Augustin,2011,44
+836,513,École-sur-Mer,2011,109
+837,342,Eliot River Elementary School,2011,429
+838,134,Ellerslie Elementary School,2011,188
+839,232,Elm Street Elementary School,2011,438
+840,345,Englewood School,2011,192
+841,445,Georgetown Elementary School,2011,92
+842,340,Glen Stewart Primary School,2011,563
+843,237,Greenfield Elementary School,2011,350
+844,348,Gulf Shore Consolidated School,2011,216
+845,122,Hernewood Intermediate School,2011,278
+846,211,Kensington Intermediate Senior High School,2011,402
+847,212,Kinkora Regional High School,2011,174
+848,343,L.M. Montgomery Elementary School,2011,361
+849,123,M.E. Callaghan Intermediate School,2011,263
+850,222,Miscouche Consolidated School,2011,266
+851,446,Montague Consolidated School,2011,414
+852,420,Montague Intermediate School,2011,311
+853,410,Montague Regional High School,2011,603
+854,447,Morell Consolidated School,2011,215
+855,411,Morell Regional High School,2011,248
+856,448,Mount Stewart Consolidated School,2011,155
+857,133,O'Leary Elementary School,2011,153
+858,346,Parkdale Elementary School,2011,111
+859,236,Parkside Elementary School,2011,313
+860,347,Prince Street Elementary School,2011,276
+861,321,Queen Charlotte Intermediate School,2011,493
+862,233,Queen Elizabeth Elementary School,2011,326
+863,349,Sherwood Elementary School,2011,551
+864,234,Somerset Elementary School,2011,176
+865,450,Souris Consolidated School,2011,354
+866,412,Souris Regional High School,2011,294
+867,451,Southern Kings Consolidated School,2011,237
+868,351,Spring Park Elementary School,2011,376
+869,354,St. Jean Elementary School,2011,143
+870,135,St. Louis Elementary School,2011,143
+871,323,Stonepark Intermediate School,2011,808
+872,358,Stratford Elementary School,2011,341
+873,220,Summerside Intermediate School,2011,523
+874,215,Three Oaks Senior High School,2011,838
+875,130,Tignish Elementary School,2011,268
+876,455,Vernon River Consolidated School,2011,153
+877,355,West Kent Elementary School,2011,214
+878,356,West Royalty Elementary School,2011,466
+879,113,Westisle Composite High School,2011,648
+880,350,Westwood Primary School,2011,583
+881,131,Alberton Elementary School,2012,158
+882,231,Amherst Cove Consolidated School,2012,120
+883,221,Athena Consolidated School,2012,379
+884,440,Belfast Consolidated School,2012,120
+885,320,Birchwood Intermediate School,2012,232
+886,132,Bloomfield Elementary School,2012,188
+887,314,Bluefield High School,2012,774
+888,441,Cardigan Consolidated School,2012,114
+889,341,Central Queens Elementary School,2012,254
+890,310,Charlottetown Rural High School,2012,995
+891,311,Colonel Gray Senior High School,2012,947
+892,344,Donagh Regional School,2012,125
+893,324,East Wiltshire Intermediate School,2012,546
+894,510,École Évangéline,2012,235
+895,511,École François-Buote,2012,293
+896,515,École La-Belle-Cloche,2012,70
+897,514,École Pierre-Chiasson,2012,71
+898,512,École St-Augustin,2012,46
+899,513,École-sur-Mer,2012,114
+900,342,Eliot River Elementary School,2012,435
+901,134,Ellerslie Elementary School,2012,186
+902,232,Elm Street Elementary School,2012,405
+903,345,Englewood School,2012,187
+904,445,Georgetown Elementary School,2012,87
+905,340,Glen Stewart Primary School,2012,577
+906,237,Greenfield Elementary School,2012,393
+907,348,Gulf Shore Consolidated School,2012,210
+908,122,Hernewood Intermediate School,2012,262
+909,211,Kensington Intermediate Senior High School,2012,379
+910,212,Kinkora Regional High School,2012,161
+911,343,L.M. Montgomery Elementary School,2012,360
+912,123,M.E. Callaghan Intermediate School,2012,242
+913,222,Miscouche Consolidated School,2012,257
+914,446,Montague Consolidated School,2012,418
+915,420,Montague Intermediate School,2012,294
+916,410,Montague Regional High School,2012,565
+917,447,Morell Consolidated School,2012,198
+918,411,Morell Regional High School,2012,226
+919,448,Mount Stewart Consolidated School,2012,164
+920,133,O'Leary Elementary School,2012,166
+921,346,Parkdale Elementary School,2012,126
+922,236,Parkside Elementary School,2012,301
+923,347,Prince Street Elementary School,2012,260
+924,321,Queen Charlotte Intermediate School,2012,456
+925,233,Queen Elizabeth Elementary School,2012,322
+926,349,Sherwood Elementary School,2012,536
+927,234,Somerset Elementary School,2012,181
+928,450,Souris Consolidated School,2012,340
+929,412,Souris Regional High School,2012,272
+930,451,Southern Kings Consolidated School,2012,220
+931,351,Spring Park Elementary School,2012,380
+932,354,St. Jean Elementary School,2012,118
+933,135,St. Louis Elementary School,2012,140
+934,323,Stonepark Intermediate School,2012,773
+935,358,Stratford Elementary School,2012,375
+936,220,Summerside Intermediate School,2012,519
+937,215,Three Oaks Senior High School,2012,845
+938,130,Tignish Elementary School,2012,255
+939,455,Vernon River Consolidated School,2012,145
+940,355,West Kent Elementary School,2012,201
+941,356,West Royalty Elementary School,2012,484
+942,113,Westisle Composite High School,2012,628
+943,350,Westwood Primary School,2012,576
+944,131,Alberton Elementary School,2013,148
+945,231,Amherst Cove Consolidated School,2013,130
+946,221,Athena Consolidated School,2013,372
+947,440,Belfast Consolidated School,2013,100
+948,320,Birchwood Intermediate School,2013,218
+949,132,Bloomfield Elementary School,2013,201
+950,314,Bluefield High School,2013,774
+951,441,Cardigan Consolidated School,2013,108
+952,341,Central Queens Elementary School,2013,258
+953,310,Charlottetown Rural High School,2013,975
+954,311,Colonel Gray Senior High School,2013,884
+955,344,Donagh Regional School,2013,126
+956,324,East Wiltshire Intermediate School,2013,525
+957,510,École Évangéline,2013,226
+958,511,École François-Buote,2013,262
+959,515,École La-Belle-Cloche,2013,76
+960,514,École Pierre-Chiasson,2013,72
+961,512,École St-Augustin,2013,57
+962,513,École-sur-Mer,2013,121
+963,342,Eliot River Elementary School,2013,457
+964,134,Ellerslie Elementary School,2013,199
+965,232,Elm Street Elementary School,2013,425
+966,345,Englewood School,2013,194
+967,445,Georgetown Elementary School,2013,74
+968,340,Glen Stewart Primary School,2013,603
+969,237,Greenfield Elementary School,2013,393
+970,348,Gulf Shore Consolidated School,2013,227
+971,122,Hernewood Intermediate School,2013,236
+972,211,Kensington Intermediate Senior High School,2013,346
+973,212,Kinkora Regional High School,2013,146
+974,343,L.M. Montgomery Elementary School,2013,388
+975,123,M.E. Callaghan Intermediate School,2013,243
+976,222,Miscouche Consolidated School,2013,262
+977,446,Montague Consolidated School,2013,414
+978,420,Montague Intermediate School,2013,284
+979,410,Montague Regional High School,2013,546
+980,447,Morell Consolidated School,2013,207
+981,411,Morell Regional High School,2013,184
+982,448,Mount Stewart Consolidated School,2013,163
+983,133,O'Leary Elementary School,2013,146
+984,346,Parkdale Elementary School,2013,141
+985,236,Parkside Elementary School,2013,336
+986,347,Prince Street Elementary School,2013,265
+987,321,Queen Charlotte Intermediate School,2013,451
+988,233,Queen Elizabeth Elementary School,2013,334
+989,349,Sherwood Elementary School,2013,529
+990,234,Somerset Elementary School,2013,169
+991,450,Souris Consolidated School,2013,344
+992,412,Souris Regional High School,2013,243
+993,451,Southern Kings Consolidated School,2013,196
+994,351,Spring Park Elementary School,2013,440
+995,354,St. Jean Elementary School,2013,101
+996,135,St. Louis Elementary School,2013,145
+997,323,Stonepark Intermediate School,2013,767
+998,358,Stratford Elementary School,2013,408
+999,220,Summerside Intermediate School,2013,489
+1000,215,Three Oaks Senior High School,2013,777
+1001,130,Tignish Elementary School,2013,228
+1002,455,Vernon River Consolidated School,2013,141
+1003,355,West Kent Elementary School,2013,201
+1004,356,West Royalty Elementary School,2013,477
+1005,113,Westisle Composite High School,2013,597
+1006,350,Westwood Primary School,2013,582
+1007,131,Alberton Elementary School,2014,129
+1008,231,Amherst Cove Consolidated School,2014,122
+1009,221,Athena Consolidated School,2014,355
+1010,440,Belfast Consolidated School,2014,95
+1011,320,Birchwood Intermediate School,2014,213
+1012,132,Bloomfield Elementary School,2014,200
+1013,314,Bluefield High School,2014,735
+1014,441,Cardigan Consolidated School,2014,96
+1015,341,Central Queens Elementary School,2014,256
+1016,310,Charlottetown Rural High School,2014,911
+1017,311,Colonel Gray Senior High School,2014,866
+1018,344,Donagh Regional School,2014,122
+1019,324,East Wiltshire Intermediate School,2014,542
+1020,510,École Évangéline,2014,229
+1021,511,École François-Buote,2014,280
+1022,515,École La-Belle-Cloche,2014,83
+1023,514,École Pierre-Chiasson,2014,66
+1024,512,École St-Augustin,2014,50
+1025,513,École-sur-Mer,2014,117
+1026,342,Eliot River Elementary School,2014,450
+1027,134,Ellerslie Elementary School,2014,202
+1028,232,Elm Street Elementary School,2014,434
+1029,345,Englewood School,2014,196
+1030,445,Georgetown Elementary School,2014,61
+1031,340,Glen Stewart Primary School,2014,610
+1032,237,Greenfield Elementary School,2014,376
+1033,348,Gulf Shore Consolidated School,2014,240
+1034,122,Hernewood Intermediate School,2014,243
+1035,211,Kensington Intermediate Senior High School,2014,306
+1036,212,Kinkora Regional High School,2014,130
+1037,343,L.M. Montgomery Elementary School,2014,434
+1038,123,M.E. Callaghan Intermediate School,2014,252
+1039,222,Miscouche Consolidated School,2014,238
+1040,446,Montague Consolidated School,2014,419
+1041,420,Montague Intermediate School,2014,310
+1042,410,Montague Regional High School,2014,480
+1043,447,Morell Consolidated School,2014,193
+1044,411,Morell Regional High School,2014,166
+1045,448,Mount Stewart Consolidated School,2014,169
+1046,133,O'Leary Elementary School,2014,142
+1047,346,Parkdale Elementary School,2014,145
+1048,236,Parkside Elementary School,2014,356
+1049,347,Prince Street Elementary School,2014,248
+1050,321,Queen Charlotte Intermediate School,2014,502
+1051,233,Queen Elizabeth Elementary School,2014,340
+1052,349,Sherwood Elementary School,2014,542
+1053,234,Somerset Elementary School,2014,168
+1054,412,Souris Regional School,2014,564
+1055,451,Southern Kings Consolidated School,2014,174
+1056,351,Spring Park Elementary School,2014,520
+1057,354,St. Jean Elementary School,2014,109
+1058,135,St. Louis Elementary School,2014,138
+1059,323,Stonepark Intermediate School,2014,768
+1060,358,Stratford Elementary School,2014,430
+1061,220,Summerside Intermediate School,2014,469
+1062,215,Three Oaks Senior High School,2014,772
+1063,130,Tignish Elementary School,2014,213
+1064,455,Vernon River Consolidated School,2014,148
+1065,355,West Kent Elementary School,2014,161
+1066,356,West Royalty Elementary School,2014,506
+1067,113,Westisle Composite High School,2014,543
+1068,350,Westwood Primary School,2014,604
+1069,131,Alberton Elementary School,2015,127
+1070,231,Amherst Cove Consolidated School,2015,125
+1071,221,Athena Consolidated School,2015,338
+1072,440,Belfast Consolidated School,2015,102
+1073,320,Birchwood Intermediate School,2015,211
+1074,132,Bloomfield Elementary School,2015,207
+1075,314,Bluefield High School,2015,661
+1076,441,Cardigan Consolidated School,2015,97
+1077,341,Central Queens Elementary School,2015,247
+1078,310,Charlottetown Rural High School,2015,858
+1079,311,Colonel Gray Senior High School,2015,845
+1080,344,Donagh Regional School,2015,116
+1081,324,East Wiltshire Intermediate School,2015,563
+1082,510,École Évangéline,2015,223
+1083,511,École François-Buote,2015,311
+1084,515,École La-Belle-Cloche,2015,80
+1085,514,École Pierre-Chiasson,2015,67
+1086,512,École St-Augustin,2015,33
+1087,513,École-sur-Mer,2015,135
+1088,342,Eliot River Elementary School,2015,441
+1089,134,Ellerslie Elementary School,2015,201
+1090,232,Elm Street Elementary School,2015,445
+1091,345,Englewood School,2015,195
+1092,445,Georgetown Elementary School,2015,50
+1093,340,Glen Stewart Primary School,2015,609
+1094,237,Greenfield Elementary School,2015,345
+1095,348,Gulf Shore Consolidated School,2015,256
+1096,122,Hernewood Intermediate School,2015,258
+1097,211,Kensington Intermediate Senior High School,2015,279
+1098,212,Kinkora Regional High School,2015,129
+1099,343,L.M. Montgomery Elementary School,2015,438
+1100,123,M.E. Callaghan Intermediate School,2015,247
+1101,222,Miscouche Consolidated School,2015,244
+1102,446,Montague Consolidated School,2015,409
+1103,420,Montague Intermediate School,2015,276
+1104,410,Montague Regional High School,2015,468
+1105,447,Morell Consolidated School,2015,195
+1106,411,Morell Regional High School,2015,166
+1107,448,Mount Stewart Consolidated School,2015,166
+1108,133,O'Leary Elementary School,2015,132
+1109,346,Parkdale Elementary School,2015,134
+1110,236,Parkside Elementary School,2015,358
+1111,347,Prince Street Elementary School,2015,255
+1112,321,Queen Charlotte Intermediate School,2015,496
+1113,233,Queen Elizabeth Elementary School,2015,326
+1114,349,Sherwood Elementary School,2015,561
+1115,234,Somerset Elementary School,2015,162
+1116,412,Souris Regional School,2015,551
+1117,451,Southern Kings Consolidated School,2015,160
+1118,351,Spring Park Elementary School,2015,515
+1119,354,St. Jean Elementary School,2015,115
+1120,135,St. Louis Elementary School,2015,129
+1121,323,Stonepark Intermediate School,2015,832
+1122,358,Stratford Elementary School,2015,441
+1123,220,Summerside Intermediate School,2015,467
+1124,215,Three Oaks Senior High School,2015,748
+1125,130,Tignish Elementary School,2015,209
+1126,455,Vernon River Consolidated School,2015,157
+1127,355,West Kent Elementary School,2015,170
+1128,356,West Royalty Elementary School,2015,521
+1129,113,Westisle Composite High School,2015,513
+1130,350,Westwood Primary School,2015,576
+1131,131,Alberton Elementary School,2016,133
+1132,231,Amherst Cove Consolidated School,2016,135
+1133,221,Athena Consolidated School,2016,337
+1134,440,Belfast Consolidated School,2016,102
+1135,320,Birchwood Intermediate School,2016,228
+1136,132,Bloomfield Elementary School,2016,227
+1137,314,Bluefield High School,2016,681
+1138,441,Cardigan Consolidated School,2016,95
+1139,341,Central Queens Elementary School,2016,250
+1140,310,Charlottetown Rural High School,2016,883
+1141,311,Colonel Gray Senior High School,2016,833
+1142,344,Donagh Regional School,2016,123
+1143,324,East Wiltshire Intermediate School,2016,615
+1144,510,École Évangéline,2016,228
+1145,511,École François-Buote,2016,321
+1146,515,École La-Belle-Cloche,2016,82
+1147,514,École Pierre-Chiasson,2016,65
+1148,512,École St-Augustin,2016,28
+1149,513,École-sur-Mer,2016,139
+1150,342,Eliot River Elementary School,2016,429
+1151,134,Ellerslie Elementary School,2016,199
+1152,232,Elm Street Elementary School,2016,444
+1153,345,Englewood School,2016,190
+1154,445,Georgetown Elementary School,2016,50
+1155,340,Glen Stewart Primary School,2016,661
+1156,237,Greenfield Elementary School,2016,338
+1157,348,Gulf Shore Consolidated School,2016,253
+1158,122,Hernewood Intermediate School,2016,279
+1159,211,Kensington Intermediate Senior High School,2016,280
+1160,212,Kinkora Regional High School,2016,127
+1161,343,L.M. Montgomery Elementary School,2016,435
+1162,123,M.E. Callaghan Intermediate School,2016,251
+1163,222,Miscouche Consolidated School,2016,216
+1164,446,Montague Consolidated School,2016,417
+1165,420,Montague Intermediate School,2016,283
+1166,410,Montague Regional High School,2016,434
+1167,447,Morell Consolidated School,2016,196
+1168,411,Morell Regional High School,2016,159
+1169,448,Mount Stewart Consolidated School,2016,181
+1170,133,O'Leary Elementary School,2016,135
+1171,346,Parkdale Elementary School,2016,139
+1172,236,Parkside Elementary School,2016,342
+1173,347,Prince Street Elementary School,2016,243
+1174,321,Queen Charlotte Intermediate School,2016,541
+1175,233,Queen Elizabeth Elementary School,2016,311
+1176,349,Sherwood Elementary School,2016,523
+1177,234,Somerset Elementary School,2016,160
+1178,412,Souris Regional School,2016,539
+1179,451,Southern Kings Consolidated School,2016,165
+1180,351,Spring Park Elementary School,2016,541
+1181,354,St. Jean Elementary School,2016,117
+1182,135,St. Louis Elementary School,2016,128
+1183,323,Stonepark Intermediate School,2016,911
+1184,358,Stratford Elementary School,2016,495
+1185,220,Summerside Intermediate School,2016,513
+1186,215,Three Oaks Senior High School,2016,730
+1187,130,Tignish Elementary School,2016,185
+1188,455,Vernon River Consolidated School,2016,172
+1189,355,West Kent Elementary School,2016,187
+1190,356,West Royalty Elementary School,2016,526
+1191,113,Westisle Composite High School,2016,486
+1192,350,Westwood Primary School,2016,486
+1193,131,Alberton Elementary School,2017,123
+1194,231,Amherst Cove Consolidated School,2017,135
+1195,221,Athena Consolidated School,2017,321
+1197,440,Belfast Consolidated School,2017,101
+1198,320,Birchwood Intermediate School,2017,471
+1199,132,Bloomfield Elementary School,2017,222
+1200,314,Bluefield High School,2017,683
+1201,441,Cardigan Consolidated School,2017,97
+1202,341,Central Queens Elementary School,2017,255
+1203,310,Charlottetown Rural High School,2017,918
+1204,311,Colonel Gray Senior High School,2017,876
+1205,344,Donagh Regional School,2017,215
+1206,324,East Wiltshire Intermediate School,2017,615
+1207,510,École Évangéline,2017,217
+1208,511,École François-Buote,2017,366
+1209,515,École La-Belle-Cloche,2017,92
+1210,514,École Pierre-Chiasson,2017,68
+1211,512,École St-Augustin,2017,36
+1212,513,École-sur-Mer,2017,157
+1213,342,Eliot River Elementary School,2017,471
+1214,134,Ellerslie Elementary School,2017,192
+1215,232,Elm Street Elementary School,2017,420
+1216,345,Englewood School,2017,189
+1217,445,Georgetown Elementary School,2017,59
+1218,340,Glen Stewart Primary School,2017,624
+1219,237,Greenfield Elementary School,2017,323
+1220,348,Gulf Shore Consolidated School,2017,241
+1221,122,Hernewood Intermediate School,2017,294
+1222,211,Kensington Intermediate Senior High School,2017,290
+1223,212,Kinkora Regional High School,2017,131
+1224,343,L.M. Montgomery Elementary School,2017,434
+1225,123,M.E. Callaghan Intermediate School,2017,230
+1226,222,Miscouche Consolidated School,2017,227
+1227,446,Montague Consolidated School,2017,424
+1228,420,Montague Intermediate School,2017,275
+1229,410,Montague Regional High School,2017,438
+1230,447,Morell Consolidated School,2017,186
+1231,411,Morell Regional High School,2017,160
+1232,448,Mount Stewart Consolidated School,2017,189
+1233,133,O'Leary Elementary School,2017,122
+1234,346,Parkdale Elementary School,2017,162
+1235,236,Parkside Elementary School,2017,346
+1236,347,Prince Street Elementary School,2017,238
+1237,321,Queen Charlotte Intermediate School,2017,543
+1238,233,Queen Elizabeth Elementary School,2017,310
+1239,349,Sherwood Elementary School,2017,514
+1240,234,Somerset Elementary School,2017,156
+1241,412,Souris Regional School,2017,522
+1242,451,Southern Kings Consolidated School,2017,173
+1243,351,Spring Park Elementary School,2017,538
+1244,354,St. Jean Elementary School,2017,116
+1245,135,St. Louis Elementary School,2017,125
+1246,323,Stonepark Intermediate School,2017,684
+1247,358,Stratford Elementary School,2017,487
+1248,220,Summerside Intermediate School,2017,531
+1249,215,Three Oaks Senior High School,2017,695
+1250,130,Tignish Elementary School,2017,174
+1251,455,Vernon River Consolidated School,2017,176
+1252,355,West Kent Elementary School,2017,291
+1253,356,West Royalty Elementary School,2017,444
+1254,113,Westisle Composite High School,2017,503
+1255,350,Westwood Primary School,2017,571
+1256,131,Alberton Elementary School,2018,116
+1257,231,Amherst Cove Consolidated School,2018,129
+1258,221,Athena Consolidated School,2018,309
+1259,440,Belfast Consolidated School,2018,109
+1260,320,Birchwood Intermediate School,2018,515
+1261,132,Bloomfield Elementary School,2018,244
+1262,314,Bluefield High School,2018,704
+1263,441,Cardigan Consolidated School,2018,97
+1264,341,Central Queens Elementary School,2018,267
+1265,310,Charlottetown Rural High School,2018,988
+1266,311,Colonel Gray Senior High School,2018,872
+1267,344,Donagh Regional School,2018,220
+1268,324,East Wiltshire Intermediate School,2018,587
+1269,510,École Évangéline,2018,214
+1270,511,École François-Buote,2018,391
+1271,515,École La-Belle-Cloche,2018,93
+1272,514,École Pierre-Chiasson,2018,71
+1273,512,École St-Augustin,2018,34
+1274,513,École-sur-Mer,2018,180
+1275,342,Eliot River Elementary School,2018,472
+1276,134,Ellerslie Elementary School,2018,199
+1277,232,Elm Street Elementary School,2018,407
+1278,345,Englewood School,2018,190
+1279,445,Georgetown Elementary School,2018,54
+1280,340,Glen Stewart Primary School,2018,614
+1281,237,Greenfield Elementary School,2018,363
+1282,348,Gulf Shore Consolidated School,2018,245
+1283,122,Hernewood Intermediate School,2018,288
+1284,211,Kensington Intermediate Senior High School,2018,298
+1285,212,Kinkora Regional High School,2018,148
+1286,343,L.M. Montgomery Elementary School,2018,441
+1287,123,M.E. Callaghan Intermediate School,2018,224
+1288,222,Miscouche Consolidated School,2018,236
+1289,446,Montague Consolidated School,2018,421
+1290,420,Montague Intermediate School,2018,286
+1291,410,Montague Regional High School,2018,409
+1292,447,Morell Consolidated School,2018,181
+1293,411,Morell Regional High School,2018,170
+1294,448,Mount Stewart Consolidated School,2018,180
+1295,133,O'Leary Elementary School,2018,114
+1296,346,Parkdale Elementary School,2018,170
+1297,236,Parkside Elementary School,2018,345
+1298,347,Prince Street Elementary School,2018,231
+1299,321,Queen Charlotte Intermediate School,2018,592
+1300,233,Queen Elizabeth Elementary School,2018,337
+1301,349,Sherwood Elementary School,2018,506
+1302,234,Somerset Elementary School,2018,156
+1303,412,Souris Regional School,2018,523
+1304,451,Southern Kings Consolidated School,2018,183
+1305,351,Spring Park Elementary School,2018,535
+1306,354,St. Jean Elementary School,2018,116
+1307,135,St. Louis Elementary School,2018,120
+1308,323,Stonepark Intermediate School,2018,641
+1309,358,Stratford Elementary School,2018,456
+1310,220,Summerside Intermediate School,2018,527
+1311,215,Three Oaks Senior High School,2018,692
+1312,130,Tignish Elementary School,2018,157
+1313,455,Vernon River Consolidated School,2018,182
+1314,355,West Kent Elementary School,2018,307
+1315,356,West Royalty Elementary School,2018,451
+1316,113,Westisle Composite High School,2018,509
+1317,350,Westwood Primary School,2018,545
+1318,131,Alberton Elementary School,2019,118
+1319,231,Amherst Cove Consolidated School,2019,118
+1320,221,Athena Consolidated School,2019,302
+1321,440,Belfast Consolidated School,2019,109
+1322,320,Birchwood Intermediate School,2019,554
+1323,132,Bloomfield Elementary School,2019,252
+1324,314,Bluefield High School,2019,741
+1325,441,Cardigan Consolidated School,2019,100
+1326,341,Central Queens Elementary School,2019,253
+1327,310,Charlottetown Rural High School,2019,1056
+1328,311,Colonel Gray Senior High School,2019,913
+1329,344,Donagh Regional School,2019,206
+1330,324,East Wiltshire Intermediate School,2019,596
+1331,510,École Évangéline,2019,218
+1332,511,École François-Buote,2019,411
+1333,515,École La-Belle-Cloche,2019,102
+1334,514,École Pierre-Chiasson,2019,73
+1335,512,École St-Augustin,2019,41
+1336,513,École-sur-Mer,2019,199
+1337,342,Eliot River Elementary School,2019,466
+1338,134,Ellerslie Elementary School,2019,216
+1339,232,Elm Street Elementary School,2019,413
+1340,345,Englewood School,2019,197
+1341,445,Georgetown Elementary School,2019,57
+1342,340,Glen Stewart Primary School,2019,447
+1343,237,Greenfield Elementary School,2019,358
+1344,348,Gulf Shore Consolidated School,2019,251
+1345,122,Hernewood Intermediate School,2019,273
+1346,211,Kensington Intermediate Senior High School,2019,298
+1347,212,Kinkora Regional High School,2019,156
+1348,343,L.M. Montgomery Elementary School,2019,467
+1349,123,M.E. Callaghan Intermediate School,2019,207
+1350,222,Miscouche Consolidated School,2019,238
+1351,446,Montague Consolidated School,2019,425
+1352,420,Montague Intermediate School,2019,263
+1353,410,Montague Regional High School,2019,422
+1354,447,Morell Consolidated School,2019,175
+1355,411,Morell Regional High School,2019,149
+1356,448,Mount Stewart Consolidated School,2019,188
+1357,133,O'Leary Elementary School,2019,109
+1358,346,Parkdale Elementary School,2019,174
+1359,236,Parkside Elementary School,2019,360
+1360,347,Prince Street Elementary School,2019,229
+1361,321,Queen Charlotte Intermediate School,2019,610
+1362,233,Queen Elizabeth Elementary School,2019,337
+1363,349,Sherwood Elementary School,2019,516
+1364,234,Somerset Elementary School,2019,151
+1365,412,Souris Regional School,2019,524
+1366,451,Southern Kings Consolidated School,2019,188
+1367,351,Spring Park Elementary School,2019,503
+1368,354,St. Jean Elementary School,2019,107
+1369,135,St. Louis Elementary School,2019,112
+1370,323,Stonepark Intermediate School,2019,633
+1371,358,Stratford Elementary School,2019,646
+1372,220,Summerside Intermediate School,2019,496
+1373,215,Three Oaks Senior High School,2019,757
+1374,130,Tignish Elementary School,2019,174
+1375,455,Vernon River Consolidated School,2019,183
+1376,355,West Kent Elementary School,2019,300
+1377,356,West Royalty Elementary School,2019,505
+1378,113,Westisle Composite High School,2019,534
+1379,350,Westwood Primary School,2019,558
